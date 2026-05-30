@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/passionate-hearts/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Passionate Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/passionate-hearts/) |
+| **Get License** | [Get License For Passionate Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/passionate-hearts/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `30c28a0ce936402c47d8b28e7027ee3a244409fc2bf9695ba961accaaef9ea16` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
