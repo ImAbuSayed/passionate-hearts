@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/passionate-hearts/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Passionate Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/passionate-hearts/) |
+| **Get License** | [Obtain a Music License for Passionate Hearts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/passionate-hearts/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers glowing just beneath your skin
+> The kind of trouble that I'm wanting to begin
+> We're moving closer in the fading of the light
+> Two passionate hearts waking up the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
